@@ -35,6 +35,7 @@ public class Esercizio1 {
         System.out.println("La lunghezza è pari? " + numeroStringa(testo));
 
         System.out.print("Inserisci un anno: ");
+        
         int anno = scanner.nextInt();
         System.out.println("L'anno bisestile? " + annoBisestile(anno));
 
